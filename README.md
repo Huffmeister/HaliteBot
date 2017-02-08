@@ -1,0 +1,2 @@
+# HaliteBot
+My Halite bot.
